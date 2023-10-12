@@ -1,0 +1,14 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "5638537M34.com.example.sme",
+                "paths": [
+                    "*",
+                    "/"
+                ]
+            }
+        ]
+    }
+}
